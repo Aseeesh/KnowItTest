@@ -2,7 +2,6 @@ G:\KnowIt\KnowIt.Domain\bin\Debug\net5.0\KnowIt.Domain.deps.json
 G:\KnowIt\KnowIt.Domain\bin\Debug\net5.0\KnowIt.Domain.dll
 G:\KnowIt\KnowIt.Domain\bin\Debug\net5.0\ref\KnowIt.Domain.dll
 G:\KnowIt\KnowIt.Domain\bin\Debug\net5.0\KnowIt.Domain.pdb
-G:\KnowIt\KnowIt.Domain\obj\Debug\net5.0\KnowIt.Domain.csproj.AssemblyReference.cache
 G:\KnowIt\KnowIt.Domain\obj\Debug\net5.0\KnowIt.Domain.GeneratedMSBuildEditorConfig.editorconfig
 G:\KnowIt\KnowIt.Domain\obj\Debug\net5.0\KnowIt.Domain.AssemblyInfoInputs.cache
 G:\KnowIt\KnowIt.Domain\obj\Debug\net5.0\KnowIt.Domain.AssemblyInfo.cs

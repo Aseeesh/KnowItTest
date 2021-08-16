@@ -1,8 +1,3 @@
-G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\KnowIt.Infrastructure.Test.csproj.AssemblyReference.cache
-G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\KnowIt.Infrastructure.Test.GeneratedMSBuildEditorConfig.editorconfig
-G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\KnowIt.Infrastructure.Test.AssemblyInfoInputs.cache
-G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\KnowIt.Infrastructure.Test.AssemblyInfo.cs
-G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\KnowIt.Infrastructure.Test.csproj.CoreCompileInputs.cache
 G:\KnowIt\KnowIt.Infrastructure.Test\bin\Debug\net5.0\testhost.dll
 G:\KnowIt\KnowIt.Infrastructure.Test\bin\Debug\net5.0\testhost.exe
 G:\KnowIt\KnowIt.Infrastructure.Test\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -100,6 +95,11 @@ G:\KnowIt\KnowIt.Infrastructure.Test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualSt
 G:\KnowIt\KnowIt.Infrastructure.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 G:\KnowIt\KnowIt.Infrastructure.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 G:\KnowIt\KnowIt.Infrastructure.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\KnowIt.Infrastructure.Test.csproj.AssemblyReference.cache
+G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\KnowIt.Infrastructure.Test.GeneratedMSBuildEditorConfig.editorconfig
+G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\KnowIt.Infrastructure.Test.AssemblyInfoInputs.cache
+G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\KnowIt.Infrastructure.Test.AssemblyInfo.cs
+G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\KnowIt.Infrastructure.Test.csproj.CoreCompileInputs.cache
 G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\KnowIt.Infrastructure.Test.csproj.CopyComplete
 G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\KnowIt.Infrastructure.Test.dll
 G:\KnowIt\KnowIt.Infrastructure.Test\obj\Debug\net5.0\ref\KnowIt.Infrastructure.Test.dll
