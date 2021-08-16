@@ -1,0 +1,33 @@
+<div class="container">
+  <h2>Events</h2>
+<span class="badge">
+    <button class="nav-link text-dark" [routerLink]="['/events/edit']">add New Event</button>
+</span>
+<table class="table table-striped" style="text-align: left">
+  <thead>
+  <tr>
+    <th></th> 
+    <th>Name</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Event Date</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let item of _EventList | async">
+    <td>
+      <div class="btn-group"> 
+        <button routerLink="/events/edit/{{item.id}}" class="btn btn-info btn-sm">
+          <i class="fa fa-pencil-square-o"></i>
+        </button> 
+      </div>
+    </td>
+     <td>{{item.name}}</td> 
+    <td>{{item.title}}</td>
+    <td>{{item.description}}</td> 
+   <td>{{item.eventDate}}</td>
+  </tr>
+  </tbody>
+</table>
+
+</div>

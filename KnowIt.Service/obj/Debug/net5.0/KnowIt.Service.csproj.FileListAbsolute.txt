@@ -1,0 +1,17 @@
+G:\KnowIt\KnowIt.Service\bin\Debug\net5.0\KnowIt.Service.deps.json
+G:\KnowIt\KnowIt.Service\bin\Debug\net5.0\KnowIt.Service.dll
+G:\KnowIt\KnowIt.Service\bin\Debug\net5.0\ref\KnowIt.Service.dll
+G:\KnowIt\KnowIt.Service\bin\Debug\net5.0\KnowIt.Service.pdb
+G:\KnowIt\KnowIt.Service\obj\Debug\net5.0\KnowIt.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\KnowIt\KnowIt.Service\obj\Debug\net5.0\KnowIt.Service.AssemblyInfoInputs.cache
+G:\KnowIt\KnowIt.Service\obj\Debug\net5.0\KnowIt.Service.AssemblyInfo.cs
+G:\KnowIt\KnowIt.Service\obj\Debug\net5.0\KnowIt.Service.csproj.CoreCompileInputs.cache
+G:\KnowIt\KnowIt.Service\obj\Debug\net5.0\KnowIt.Service.dll
+G:\KnowIt\KnowIt.Service\obj\Debug\net5.0\ref\KnowIt.Service.dll
+G:\KnowIt\KnowIt.Service\obj\Debug\net5.0\KnowIt.Service.pdb
+G:\KnowIt\KnowIt.Service\bin\Debug\net5.0\KnowIt.Domain.dll
+G:\KnowIt\KnowIt.Service\bin\Debug\net5.0\KnowIt.Infrastructure.dll
+G:\KnowIt\KnowIt.Service\bin\Debug\net5.0\KnowIt.Domain.pdb
+G:\KnowIt\KnowIt.Service\bin\Debug\net5.0\KnowIt.Infrastructure.pdb
+G:\KnowIt\KnowIt.Service\obj\Debug\net5.0\KnowIt.Service.csproj.AssemblyReference.cache
+G:\KnowIt\KnowIt.Service\obj\Debug\net5.0\KnowIt.Service.csproj.CopyComplete
